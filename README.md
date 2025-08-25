@@ -29,7 +29,8 @@ Filters: Category-wise filtering (Classic, Veggie, Chicken), size filter, and da
 📊 Dashboards & Visuals
 Sales Overview Page
 
-[Super Store.docx](https://github.com/user-attachments/files/21262281/Super.Store.docx)
+
+<img width="1153" height="650" alt="Screenshot 2025-08-25 115927" src="https://github.com/user-attachments/assets/b9453e12-069d-4827-9e27-1cd1b43b8e1e" />
 
 
 KPIs: Total Revenue, Total Orders, Avg. Revenue per Order
